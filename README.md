@@ -54,3 +54,34 @@ I build AI systems, dashboards, and data products that turn messy data into usef
 [![](https://komarev.com/ghpvc/?username=ShauryaS31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats
+
+<!-- Core Stats -->
+![](https://github-readme-stats.vercel.app/api?username=ShauryaS31&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+<!-- Streak Stats -->
+![](https://streak-stats.demolab.com?user=ShauryaS31&theme=tokyonight&hide_border=true)
+
+<!-- Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaS31&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 📈 Contribution Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=ShauryaS31&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🧠 Full Contribution Calendar
+![](https://ghchart.rshah.org/409ba5/ShauryaS31)
+
+---
+
+## 🚀 Holistic Metrics (PRs, Issues, Reviews, Commits)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShauryaS31&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShauryaS31&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShauryaS31&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShauryaS31&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShauryaS31&theme=tokyonight&utcOffset=10)
