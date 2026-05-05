@@ -1,1 +1,62 @@
+# Hey, I'm Shaurya Sharma 👋
 
+**AI Engineer · Data Analyst · Product Builder**
+
+I build AI systems, dashboards, and data products that turn messy data into useful workflows. My work sits between AI, analytics, and product engineering — from multi-agent automation to production ML systems and real-world demos.
+
+[Portfolio](https://shauryavsharma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shauryavsharma/)
+
+## 🚀 What I Do
+
+- **AI Systems** → Multi-agent workflows, RAG systems, and LLM-powered applications
+- **Data Analytics** → Dashboards, product analytics, data wrangling, and insights
+- **Product Engineering** → Turning ideas into working tools used by real stakeholders
+- **Stakeholder Collaboration** → Translating technical work for non-technical teams
+
+## 🏆 Key Projects
+
+- **The Guild** — Multi-agent employee onboarding system built with Relevance AI and Claude
+- **SeatScout** — Real-time occupancy dashboard for 6+ users, reducing manual reporting by 40%
+- **Landmine Detection** — Image-based detection system with RAG for mine information retrieval
+- **MoonRover** — Embedded computer vision system deployed on Jetson Orin
+- **RoadWhisper** — End-to-end autonomous driving project deployed on Jetson Nano
+- **GPU Chess** — Distributed training on a 48-GPU cluster, reducing training time by 25%
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryavsharma/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shauryavsharma.vercel.app/)
+
+---
+
+## 📊 GitHub activity
+
+**[Contributions & activity (last year) →](https://github.com/ShauryaS31)**
+
+Contribution calendar (screenshot; update the image in `assets/` when you want it to match your profile again):
+
+![GitHub contribution graph — last year](assets/github-contributions.png)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShauryaS31&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaS31&theme=dark&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=ShauryaS31&icon=0&color=0)](https://visitcount.itsvg.in)
