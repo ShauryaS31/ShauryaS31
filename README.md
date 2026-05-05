@@ -63,8 +63,6 @@ I build AI systems, dashboards, and data products that turn messy data into usef
 
 [![Contributions last rolling year](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FShauryaS31%3Fy%3Dlast&query=%24.total.lastYear&label=contributions%20(last%20rolling%20year)&labelColor=222&color=3fb950&logo=github&style=flat)](https://github.com/ShauryaS31)
 
-> **Note:** `github-readme-stats.vercel.app` is often **paused / 503**, so stats-card images from that host show as broken. This README avoids that host for the commit count and languages.
-
 Contribution activity over time (public GitHub data; not the same UI as the profile calendar):
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShauryaS31&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
