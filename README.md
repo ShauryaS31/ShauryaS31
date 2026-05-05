@@ -1,12 +1,21 @@
+
 # Hey, I'm Shaurya Sharma 👋
+
 
 **AI Engineer · Data Analyst · Product Builder**
 
 I build AI systems, dashboards, and data products that turn messy data into useful workflows. My work sits between AI, analytics, and product engineering — from multi-agent automation to production ML systems and real-world demos.
 
+
 [Portfolio](https://shauryavsharma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shauryavsharma/)
 
+
+
+
+
+
 ## 🚀 What I Do
+
 
 - **AI Systems** → Multi-agent workflows, RAG systems, and LLM-powered applications
 - **Data Analytics** → Dashboards, product analytics, data wrangling, and insights
@@ -14,6 +23,7 @@ I build AI systems, dashboards, and data products that turn messy data into usef
 - **Stakeholder Collaboration** → Translating technical work for non-technical teams
 
 ## 🏆 Key Projects
+
 
 - **The Guild** — Multi-agent employee onboarding system built with Relevance AI and Claude
 - **SeatScout** — Real-time occupancy dashboard for 6+ users, reducing manual reporting by 40%
@@ -47,16 +57,14 @@ I build AI systems, dashboards, and data products that turn messy data into usef
 
 ## 📊 GitHub activity
 
-**[Contributions & activity (last year) →](https://github.com/ShauryaS31)**
+**[Profile & contributions →](https://github.com/ShauryaS31)**
 
-Contribution calendar (screenshot; update the image in `assets/` when you want it to match your profile again):
+Contribution activity over time (public GitHub data; not the same UI as the profile calendar):
 
-![GitHub contribution graph — last year](assets/github-contributions.png)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShauryaS31&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShauryaS31&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaS31&theme=dark&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-[![](https://komarev.com/ghpvc/?username=ShauryaS31&icon=0&color=0)](https://visitcount.itsvg.in)
