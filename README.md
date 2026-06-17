@@ -57,8 +57,6 @@ I build AI systems, dashboards, and data products that turn messy data into usef
 
 ## 📊 GitHub activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShauryaS31&theme=dark&hide_border=false)](https://git.io/streak-stats)
-
 [![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShauryaS31&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="center">
